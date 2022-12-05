@@ -6,6 +6,8 @@ fun main() {
     day2()
     println("== day 3 ==")
     day3()
+    println("== day 4 ==")
+    day4()
 }
 
 
